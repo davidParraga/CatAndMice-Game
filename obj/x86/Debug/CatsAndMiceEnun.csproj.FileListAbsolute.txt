@@ -1,0 +1,20 @@
+C:\Users\David\Desktop\CatsAndMiceEnun\obj\x86\Debug\CatsAndMiceEnun.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\CatsAndMiceEnun\obj\x86\Debug\CatsAndMice.CatsAndMiceForm.resources
+C:\Users\David\Desktop\CatsAndMiceEnun\obj\x86\Debug\CatsAndMiceEnun.Properties.Resources.resources
+C:\Users\David\Desktop\CatsAndMiceEnun\obj\x86\Debug\CatsAndMiceEnun.csproj.GenerateResource.Cache
+C:\Users\David\Desktop\CatsAndMiceEnun\obj\x86\Debug\CatsAndMiceEnun.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\CatsAndMiceEnun\bin\Debug\WindowsApplication.exe.config
+C:\Users\David\Desktop\CatsAndMiceEnun\bin\Debug\WindowsApplication.exe
+C:\Users\David\Desktop\CatsAndMiceEnun\bin\Debug\WindowsApplication.pdb
+C:\Users\David\Desktop\CatsAndMiceEnun\obj\x86\Debug\WindowsApplication.exe
+C:\Users\David\Desktop\CatsAndMiceEnun\obj\x86\Debug\WindowsApplication.pdb
+C:\Users\David\Desktop\Sir Párraga\TRABAJO\Tercero\PRIMER CUATRIMESTRE\PROGRAMACIÓN\C#\CatsAndMiceEnun\bin\Debug\WindowsApplication.exe.config
+C:\Users\David\Desktop\Sir Párraga\TRABAJO\Tercero\PRIMER CUATRIMESTRE\PROGRAMACIÓN\C#\CatsAndMiceEnun\bin\Debug\WindowsApplication.exe
+C:\Users\David\Desktop\Sir Párraga\TRABAJO\Tercero\PRIMER CUATRIMESTRE\PROGRAMACIÓN\C#\CatsAndMiceEnun\bin\Debug\WindowsApplication.pdb
+C:\Users\David\Desktop\Sir Párraga\TRABAJO\Tercero\PRIMER CUATRIMESTRE\PROGRAMACIÓN\C#\CatsAndMiceEnun\obj\x86\Debug\CatsAndMiceEnun.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\Sir Párraga\TRABAJO\Tercero\PRIMER CUATRIMESTRE\PROGRAMACIÓN\C#\CatsAndMiceEnun\obj\x86\Debug\CatsAndMice.CatsAndMiceForm.resources
+C:\Users\David\Desktop\Sir Párraga\TRABAJO\Tercero\PRIMER CUATRIMESTRE\PROGRAMACIÓN\C#\CatsAndMiceEnun\obj\x86\Debug\CatsAndMiceEnun.Properties.Resources.resources
+C:\Users\David\Desktop\Sir Párraga\TRABAJO\Tercero\PRIMER CUATRIMESTRE\PROGRAMACIÓN\C#\CatsAndMiceEnun\obj\x86\Debug\CatsAndMiceEnun.csproj.GenerateResource.Cache
+C:\Users\David\Desktop\Sir Párraga\TRABAJO\Tercero\PRIMER CUATRIMESTRE\PROGRAMACIÓN\C#\CatsAndMiceEnun\obj\x86\Debug\CatsAndMiceEnun.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Sir Párraga\TRABAJO\Tercero\PRIMER CUATRIMESTRE\PROGRAMACIÓN\C#\CatsAndMiceEnun\obj\x86\Debug\WindowsApplication.exe
+C:\Users\David\Desktop\Sir Párraga\TRABAJO\Tercero\PRIMER CUATRIMESTRE\PROGRAMACIÓN\C#\CatsAndMiceEnun\obj\x86\Debug\WindowsApplication.pdb
