@@ -1,6 +1,6 @@
 # Cats&Mice Game 🐈🐭
 
-Cats&Mice is a game focused on understand Object oriented programming, inheritance, polymorphism and events.
+Cats&Mice is a game focused on understanding Object Oriented Programming, Inheritance, Polymorphism and Events.
 these are the rules:
 1) You are the mouse (blue balls) and the cats (red balls) are your enemies.
 2) Pink balls are lifes wheras grey balls are poisons.
